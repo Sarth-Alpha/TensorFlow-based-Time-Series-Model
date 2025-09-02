@@ -17,10 +17,10 @@ With increasing adoption of renewable energy sources like solar and wind, microg
    - Builds an LSTM-based model using TensorFlow/Keras.
    - Uses past 24 hours of data to predict the next time step.
      
-   <p align="center">
-        <img src="images/put readme1.png" alt="Forecast Example 1" width="45%">
-        <img src="images/put readme2.png" alt="Forecast Example 2" width="45%">
-   </p>
+<img src="images/put readme1.png" alt="Forecast Example 1" width="60%" style="display:block; margin:auto;">
+<br>
+<img src="images/put readme2.png" alt="Forecast Example 2" width="60%" style="display:block; margin:auto;">
+
 3. **Prediction & Optimization**
    - Forecasts future energy generation.
    - Compares predicted vs actual generation and recommends whether to store energy or use it immediately.
